@@ -1,5 +1,9 @@
 # Change log
 
+## [8.0.3] - 2024-11-13
+
+- Upgrade to deck.gl 9
+
 ## [8.0.2] - 2024-03-06
 
 - Fix: getLocationIdsInViewport didn't use location id accessor
